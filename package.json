@@ -1,0 +1,9 @@
+{
+  "name": "macpy-engine",
+  "version": "0.1.0",
+  "description": "Engine that get various webpage content using pathomjs",
+  "devDependencies": {
+    "phantomjs": "^1.9.7-8",
+    "jquery": "^2.1.1"
+  }
+}
